@@ -1,0 +1,4 @@
+Cantici 0.1.4
+
+Aggiornamento per Android con controllo delle nuove versioni nell’app.
+Installa sopra la versione precedente senza disinstallare Cantici.
