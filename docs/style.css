@@ -43,6 +43,7 @@ li p { color: var(--muted); margin: 6px 0 0; }
 details { padding-top: 16px; border-top: 1px solid var(--line); }
 summary { cursor: pointer; font-weight: 650; min-height: 48px; padding: 8px 0; }
 details p { margin: 16px 0 0; }
+details h3 { font-size: 1rem; line-height: 1.4; margin: 24px 0 0; }
 .next-time { grid-column: 1 / -1; border-left: 5px solid var(--primary); padding: 8px 28px; }
 .next-time h2 { margin-top: 0; margin-bottom: 16px; }
 .next-time p { max-width: 75ch; }
